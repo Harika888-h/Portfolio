@@ -1,4 +1,5 @@
 # Portfolio
 This is my Portfolio.
-Settipalli Harika
+<br>
+<h2><i>Settipalli Harika</i></h2>
 
